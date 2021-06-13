@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\elize\source\repos\fundamentals_project\fundamentals_project\main.cpp(113,17): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+C:\Users\elize\source\repos\fundamentals_project\fundamentals_project\main.cpp(147,12): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'LPVOID'
+C:\Users\elize\source\repos\fundamentals_project\fundamentals_project\main.cpp(30,10): warning C4930: 'std::istream tempStream(void)': prototyped function not called (was a variable definition intended?)
+  fundamentals_project.vcxproj -> C:\Users\elize\source\repos\fundamentals_project\Debug\fundamentals_project.exe
